@@ -117,3 +117,6 @@ Email: **shrutinarad06@gmail.com**
 _"Clean code is not just writing less, it's about writing right." _
 
 ---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
